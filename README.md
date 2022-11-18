@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zemen Teshager</h1>
-<h3 align="center">A passionate Data analyst/Data scientist/Data engineer from Ethiopia</h3>
+<h3 align="center">A passionate Data Analyst/Data Scientist/Data Engineer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [IBM Data Science Capstone Project](https://github.com/ZemenTeshager/data-science-capstone-project/tree/master)
 
