@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zemen Teshager</h1>
+<h1 align="center">Hi 👋, I'm Zemen Teshager Asmamaw</h1>
 <h3 align="center">A passionate Data Analyst/Data Scientist/Data Engineer</h3>
 
 - 🔭 I’m currently working on [Data Analaysis](https://github.com/ZemenTeshager/data-science-capstone-project/tree/master)
