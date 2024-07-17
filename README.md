@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zemen Teshager</h1>
-<h3 align="center">A passionate Data Analyst/Data Scientist/Data Engineer from Ethiopia</h3>
+<h3 align="center">A passionate Data Analyst/Data Scientist/Data Engineer</h3>
 
-- 🔭 I’m currently working on [Big Data Analaysis](https://github.com/ZemenTeshager/data-science-capstone-project/tree/master)
+- 🔭 I’m currently working on [Data Analaysis](https://github.com/ZemenTeshager/data-science-capstone-project/tree/master)
 
 - 👯 I’m looking to collaborate on **Any data science project**
 
 - 💬 Ask me about **Database, Data Analysis, Data Engineering, and Python**
 
-- 📫 How to reach me **zementeshagerasm@gmail.com**
+- 📫 How to reach me **zemen5093@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
