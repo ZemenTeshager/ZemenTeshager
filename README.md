@@ -1,6 +1,6 @@
 # Hi, I'm Zemen Teshager Asmamaw 👋  
 
-Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **Software Developer** passionate about transforming complex datasets into actionable insights and building innovative software solutions.
+Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **Software Developer** passionate about transforming complex datasets into actionable insights and building innovative software solutions. I am deeply committed to leveraging data and technology to promote sustainability, particularly in the coffee production sector and broader environmental initiatives.
 
 ---
 
@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 - 💼 **Work Experience**:  
   - **Data Analyst**: Enveritas International INC & Ablaze Labs  
   - **Software Engineer**: IE Network Solutions  
+- 🌿 **Sustainability Advocate**: Actively involved in projects promoting sustainable coffee production and environmental conservation.
 
 ---
 
@@ -19,6 +20,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 - **Data Analysis**: Python, Pandas, SQL, Tableau, Looker  
 - **Software Development**: PHP Laravel, MySQL, React  
 - **Statistical Modeling**: Regression, Machine Learning  
+- **Sustainability Expertise**: Data-driven insights for sustainability in agriculture and the environment  
 - **Project Management**: Agile methodologies, Team Leadership  
 - **Other Tools**: API development, Web Scraping, Dashboard Design  
 
@@ -30,9 +32,14 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 - Utilized **PHP Laravel**, **React**, and **MySQL** to develop backend and frontend modules.  
 - Achieved over 90% stakeholder acceptance through rigorous testing and UAT sessions.
 
-### 📈 **Data Visualization Dashboards**  
-- Created interactive dashboards for agricultural supply chain analysis, talent market research, and business outsourcing insights.  
-- Leveraged Python, Tableau, and SQL to deliver data-driven decision-making tools.
+### 🌿 **Sustainability in Coffee Production**  
+- Analyzed sustainability issues in global coffee production, focusing on data collected across 22 countries.  
+- Delivered actionable insights through dashboards, addressing geographic and logistic challenges in sustainable coffee practices.  
+- Trained field teams and enumerators to ensure high-quality data collection and foster accountability in sustainability reporting.
+
+### 📈 **Environmental Data Visualization Dashboards**  
+- Created interactive dashboards for agricultural supply chain analysis and environmental conservation efforts.  
+- Leveraged Python, Tableau, and SQL to highlight trends and inform decision-making on sustainability initiatives.
 
 ### 🗂️ **Performance Management System (OKR)**  
 - Developed a system to align and track company and individual objectives, incorporating planning and reporting features.  
@@ -43,12 +50,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 ## 📜 Certifications  
 - **IBM Data Science Professional Certificate** (November 2022)  
 - **PCAP-Certified Associate in Python Programming** (January 2023)  
-- **Duolingo English Proficiency Certification**  
 
 ---
 
 ## 🌟 Fun Fact  
-When I’m not coding or analyzing data, I enjoy exploring sustainability issues, contributing to innovative solutions, and staying updated on the latest trends in tech and data science.
+When I’m not coding or analyzing data, I enjoy contributing to sustainability efforts, exploring innovative solutions in coffee production, and staying updated on the latest trends in tech and data science.
 
 ---
 
