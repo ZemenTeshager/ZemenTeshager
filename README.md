@@ -1,18 +1,60 @@
-<h1 align="center">Hi 👋, I'm Zemen Teshager Asmamaw</h1>
-<h3 align="center">A passionate Data Analyst/Data Scientist/Data Engineer</h3>
+# Hi, I'm Zemen Teshager Asmamaw 👋  
 
-- 🔭 I’m currently working on [Data Analaysis](https://github.com/ZemenTeshager/data-science-capstone-project/tree/master)
+Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **Software Developer** passionate about transforming complex datasets into actionable insights and building innovative software solutions.
 
-- 👯 I’m looking to collaborate on **Any data science project**
+---
 
-- 💬 Ask me about **Database, Data Analysis, Data Engineering, and Python**
+## 🌟 About Me  
+- 🎓 **Education**: BSc in Electrical and Computer Engineering, University of Gondar  
+- 💻 **Expertise**: Data analysis, statistical modeling, API development, and database design  
+- 🌱 **Currently Learning**: Advanced techniques in machine learning and cloud solutions  
+- 🌐 **Languages**: Python, SQL, PHP (Laravel), and React  
+- 💼 **Work Experience**:  
+  - **Data Analyst**: Enveritas International INC & Ablaze Labs  
+  - **Software Engineer**: IE Network Solutions  
 
-- 📫 How to reach me **zemen5093@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zemen teshager" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zemen teshager" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills and Tools  
+- **Data Analysis**: Python, Pandas, SQL, Tableau, Looker  
+- **Software Development**: PHP Laravel, MySQL, React  
+- **Statistical Modeling**: Regression, Machine Learning  
+- **Project Management**: Agile methodologies, Team Leadership  
+- **Other Tools**: API development, Web Scraping, Dashboard Design  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Projects  
+### 📊 **Supply Chain Management System**  
+- Designed and implemented a comprehensive web application to streamline workflows and optimize resource management.  
+- Utilized **PHP Laravel**, **React**, and **MySQL** to develop backend and frontend modules.  
+- Achieved over 90% stakeholder acceptance through rigorous testing and UAT sessions.
+
+### 📈 **Data Visualization Dashboards**  
+- Created interactive dashboards for agricultural supply chain analysis, talent market research, and business outsourcing insights.  
+- Leveraged Python, Tableau, and SQL to deliver data-driven decision-making tools.
+
+### 🗂️ **Performance Management System (OKR)**  
+- Developed a system to align and track company and individual objectives, incorporating planning and reporting features.  
+- Improved usability and functionality through continuous development and maintenance.
+
+---
+
+## 📜 Certifications  
+- **IBM Data Science Professional Certificate** (November 2022)  
+- **PCAP-Certified Associate in Python Programming** (January 2023)  
+- **Duolingo English Proficiency Certification**  
+
+---
+
+## 🌟 Fun Fact  
+When I’m not coding or analyzing data, I enjoy exploring sustainability issues, contributing to innovative solutions, and staying updated on the latest trends in tech and data science.
+
+---
+
+## 📫 Let's Connect!  
+- **LinkedIn**: [Zemen Teshager Asmamaw](https://www.linkedin.com/in/zementeshager)  
+- **GitHub**: [ZemenTeshager](https://github.com/ZemenTeshager?tab=repositories)  
+- **Email**: zemen5093@gmail.com  
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me to collaborate on exciting projects.
