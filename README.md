@@ -1,49 +1,54 @@
 # Hi, I'm Zemen Teshager Asmamaw 👋  
 
-Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **Software Developer** passionate about transforming complex datasets into actionable insights and building innovative software solutions. I am deeply committed to leveraging data and technology to promote sustainability, particularly in the coffee production sector and broader environmental initiatives.
+Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **Software Developer** passionate about transforming complex datasets into actionable insights and building AI-driven solutions. My expertise spans **machine learning, responsible AI, LLM evaluation, and sustainability analytics**.  
 
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education**: BSc in Electrical and Computer Engineering, University of Gondar  
-- 💻 **Expertise**: Data analysis, statistical modeling, API development, and database design  
-- 🌱 **Currently Learning**: Advanced techniques in machine learning and cloud solutions  
+- 🎓 **Education**:  
+  - MSc in **Applied Statistics with Data Science**, University of Strathclyde *(Aug 2021 – Aug 2023)*  
+  - BSc in **Electrical and Computer Engineering**, University of Gondar *(Jan 2021)*  
+- 💻 **Expertise**: Data science, statistical modeling, LLM evaluation, and AI-driven analytics  
+- 🌱 **Currently Learning**: Advanced AI, NLP, and cloud-based ML pipelines  
 - 🌐 **Languages**: Python, SQL, PHP (Laravel), and React  
 - 💼 **Work Experience**:  
-  - **Data Analyst**: Enveritas International INC & Ablaze Labs  
-  - **Software Engineer**: IE Network Solutions  
-- 🌿 **Sustainability Advocate**: Actively involved in projects promoting sustainable coffee production and environmental conservation.
+  - **Data Analyst** – Enveritas International INC & Ablaze Labs *(NGO, sustainability & survey research)*  
+  - **Software Engineer** – IE Network Solutions *(Enterprise software development & data engineering)*  
+- 🌿 **Sustainability Advocate**: Worked on data-driven insights for sustainability in agriculture and nonprofit projects supporting field research.
 
 ---
 
 ## 🛠️ Skills and Tools  
-- **Data Analysis**: Python, Pandas, SQL, Tableau, Looker  
-- **Software Development**: PHP Laravel, MySQL, React  
-- **Statistical Modeling**: Regression, Machine Learning  
-- **Sustainability Expertise**: Data-driven insights for sustainability in agriculture and the environment  
+- **Data Science & AI**: Python, Pandas, NumPy, Scikit-learn, TensorFlow, LLM evaluations  
+- **Data Analysis & Visualization**: SQL, Tableau, Looker, Power BI  
+- **Software Development**: PHP Laravel, MySQL, React, Docker  
+- **Statistical Modeling**: Regression, Machine Learning, A/B Testing  
+- **Cloud & Automation**: AWS Redshift, ETL Pipelines, API Development  
+- **Responsible AI & Survey Research**: NLP, CommCare, Data-driven sustainability analytics  
 - **Project Management**: Agile methodologies, Team Leadership  
-- **Other Tools**: API development, Web Scraping, Dashboard Design  
 
 ---
 
 ## 🚀 Projects  
-### 📊 **Supply Chain Management System**  
-- Designed and implemented a comprehensive web application to streamline workflows and optimize resource management.  
-- Utilized **PHP Laravel**, **React**, and **MySQL** to develop backend and frontend modules.  
-- Achieved over 90% stakeholder acceptance through rigorous testing and UAT sessions.
+### 📊 **LLM Evaluation & AI Model Audits**  
+- Conducted **responsible AI evaluations** for Large Language Models (LLMs), ensuring **safety, fairness, and transparency**.  
+- Designed **human and automated benchmarking experiments** to refine NLP model performance.  
+- Developed scalable **ML pipelines** for model assessment.  
 
-### 🌿 **Sustainability in Coffee Production**  
-- Analyzed sustainability issues in global coffee production, focusing on data collected across 22 countries.  
-- Delivered actionable insights through dashboards, addressing geographic and logistic challenges in sustainable coffee practices.  
-- Trained field teams and enumerators to ensure high-quality data collection and foster accountability in sustainability reporting.
+### 🌿 **Sustainability & Survey Data Analytics**  
+- Managed and analyzed **100K+ sustainability survey responses** across multiple countries.  
+- Developed **interactive dashboards and reports** to track sustainability trends in **coffee production and agriculture**.  
+- Supported **field teams & data collection efforts** to improve survey accuracy.  
 
-### 📈 **Environmental Data Visualization Dashboards**  
-- Created interactive dashboards for agricultural supply chain analysis and environmental conservation efforts.  
-- Leveraged Python, Tableau, and SQL to highlight trends and inform decision-making on sustainability initiatives.
+### 📈 **Supply Chain Management System**  
+- Built an end-to-end **web-based supply chain system** to streamline inventory, logistics, and sourcing.  
+- Developed using **PHP Laravel, React, and MySQL**, achieving **90%+ stakeholder adoption**.  
+- Optimized database performance, reducing query response time by **40%**.  
 
-### 🗂️ **Performance Management System (OKR)**  
-- Developed a system to align and track company and individual objectives, incorporating planning and reporting features.  
-- Improved usability and functionality through continuous development and maintenance.
+### 🏥 **Nonprofit Data Solutions & Community Impact**  
+- Designed **data-driven workflows** for a nonprofit organization serving communities across **25+ countries**.  
+- Developed **CommCare-based tools** for survey data collection, improving **program tracking & impact assessment**.  
+- Supported international teams by ensuring **data integrity & process automation**.  
 
 ---
 
@@ -54,7 +59,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 ---
 
 ## 🌟 Fun Fact  
-When I’m not coding or analyzing data, I enjoy contributing to sustainability efforts, exploring innovative solutions in coffee production, and staying updated on the latest trends in tech and data science.
+Beyond coding and AI, I am passionate about **education, sustainability, and community-driven projects**. My ultimate goal is to **empower orphans and underprivileged children in Ethiopia through education and technology**.  
 
 ---
 
@@ -63,4 +68,4 @@ When I’m not coding or analyzing data, I enjoy contributing to sustainability 
 - **GitHub**: [ZemenTeshager](https://github.com/ZemenTeshager?tab=repositories)  
 - **Email**: zemen5093@gmail.com  
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me to collaborate on exciting projects.
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me for collaborations. 🚀
