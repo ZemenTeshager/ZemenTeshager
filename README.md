@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 
 ## 🌟 About Me  
 - 🎓 **Education**:  
-  - MSc in **Applied Statistics with Data Science**, University of Strathclyde *(Aug 2021 – Aug 2023)*  
+  - MSc in **Applied Statistics with Data Science**, University of Strathclyde *(Aug 2023)*  
   - BSc in **Electrical and Computer Engineering**, University of Gondar *(Jan 2021)*  
 - 💻 **Expertise**: Data science, statistical modeling, LLM evaluation, and AI-driven analytics  
 - 🌱 **Currently Learning**: Advanced AI, NLP, and cloud-based ML pipelines  
