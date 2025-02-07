@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Data Analyst**, and **
 ---
 
 ## 🚀 Projects  
-### 📊 **LLM Evaluation & AI Model Audits**  
-- Conducted **responsible AI evaluations** for Large Language Models (LLMs), ensuring **safety, fairness, and transparency**.  
-- Designed **human and automated benchmarking experiments** to refine NLP model performance.  
-- Developed scalable **ML pipelines** for model assessment.  
 
 ### 🌿 **Sustainability & Survey Data Analytics**  
 - Managed and analyzed **100K+ sustainability survey responses** across multiple countries.  
